@@ -1,0 +1,16 @@
+Design-flow:
+
+execute Main Game -> welcome -> load_game:
+                                  loadTextGame()
+                                  loadTextDifficulty()
+                                  return dict with num of game in key and value of object of game
+
+
+
+invoke play with inner context
+
+
+
+
+
+
